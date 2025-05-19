@@ -26,5 +26,5 @@ cd qtec
 ## Extra work(Develop a streamlit app for frontend)
 ### 🧾 Sample Output
 
-![Chat Summary Screenshot](images/log summary page.PNG)
+![Chat Summary Screenshot](images/intro.PNG)
 
