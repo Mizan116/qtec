@@ -21,5 +21,6 @@ This Python-based tool reads chat logs between a user and an AI from `.txt` file
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-chat-log-summarizer.git
-   cd ai-chat-log-summarizer
+git clone https://github.com/Mizan116/qtec.git
+cd qtec
+
