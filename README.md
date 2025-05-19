@@ -15,7 +15,7 @@ This Python-based tool reads chat logs between a user and an AI from `.txt` file
 
 ## Requirements
 - Python 3.6 or higher
-- Libraries: `nltk`, `scikit-learn`
+- Libraries: `tf-idf`, `nltk`, `scikit-learn`
 
 ## Installation
 
