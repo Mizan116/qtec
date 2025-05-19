@@ -23,4 +23,8 @@ This Python-based tool reads chat logs between a user and an AI from `.txt` file
    ```bash
 git clone https://github.com/Mizan116/qtec.git
 cd qtec
+## Extra work(Develop a streamlit app for frontend)
+### 🧾 Sample Output
+
+![Chat Summary Screenshot](images/log summary page.PNG)
 
