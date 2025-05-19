@@ -24,6 +24,11 @@ This Python-based tool reads chat logs between a user and an AI from `.txt` file
 git clone https://github.com/Mizan116/qtec.git
 cd qtec
 ## Extra work(Develop a streamlit app for frontend)
+## For running app
+1. install streamlit in VS code
+2. use `streamlit run app.py`
+3. use your local folder path and log folder in replace of "C:\Users\ASUS\Desktop\QTec Task\input folder" 
+`
 ### 🧾 Sample Output (Intro Page after opening the streamlit app)
 
 ![Chat Summary Screenshot](images/intro.PNG)
