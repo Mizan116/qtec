@@ -1,3 +1,4 @@
 ## Requirements
 - Python 3.6 or higher
 - Libraries: `TF-IDF`, `nltk`, `scikit-learn`
+- For app (Frontend): `streamlit`
