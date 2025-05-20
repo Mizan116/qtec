@@ -13,16 +13,7 @@ This Python-based tool reads chat logs between a user and an AI from `.txt` file
   - Most common keywords.
 - Optional: Supports summarizing multiple chat logs from a folder.
 
-## Requirements
-- Python 3.6 or higher
-- Libraries: `tf-idf`, `nltk`, `scikit-learn`, `streamlit`
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-  git clone https://github.com/Mizan116/qtec.git
-  cd qtec
 
 ## 🧠 Methodology
 This project, AI Chat Log Summarizer, is designed to read .txt chat logs between a user and an AI, extract meaningful information, and generate a structured summary. The methodology follows a modular and explainable approach from input parsing to output generation. Below are the detailed steps:
@@ -103,9 +94,18 @@ Modularity: Each function is reusable and independently testable.
 
 Clarity: All logic is transparent and explained for easy understanding.
 
+## Requirements
+- Python 3.6 or higher
+- Libraries: `tf-idf`, `nltk`, `scikit-learn`, `streamlit`
 
+## Installation
 
-## Extra work(Develop a streamlit app for frontend)
+1. Clone the repository:
+   ```bash
+  git clone https://github.com/Mizan116/qtec.git
+  cd qtec
+
+## Extra work(Developed a streamlit app for frontend)
 ## For running app
 1. install streamlit in VS code
 2. use `streamlit run app.py`
@@ -115,7 +115,7 @@ Clarity: All logic is transparent and explained for easy understanding.
 
 ![Chat Summary Screenshot](images/intro.PNG)
 
-### 🧾 Sample Output (Summary pages after clicking the 'Summarize folder' button')
+### 🧾 Sample Output (Summary pages after clicking the 'Summarize folder' button ')
 
 ![Chat Summary Screenshot](images/mainPage.PNG)
 
